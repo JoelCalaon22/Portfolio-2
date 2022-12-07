@@ -287,11 +287,11 @@ html{
     100%{width: 89%;}
 }
 
-.skills .skill .photoshop{
+.skills .skill .ruby{
     width: 0%;
-    animation: 2s photoshop forwards;
+    animation: 2s ruby forwards;
 }
-@keyframes photoshop {
+@keyframes ruby {
     0%{width: 0%;}
     100%{width: 95%;}
 }
@@ -305,11 +305,11 @@ html{
     100%{width: 81%;}
 }
 
-.skills .skill .drupal{
+.skills .skill .python{
     width: 0%;
-    animation: 2s drupal forwards;
+    animation: 2s python forwards;
 }
-@keyframes drupal {
+@keyframes python {
     0%{width: 0%;}
     100%{width: 55%;}
 }
